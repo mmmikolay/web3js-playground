@@ -1,0 +1,8 @@
+# environment variables
+.env
+
+# compiled output
+/build
+
+# node modules
+/node_modules
